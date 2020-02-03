@@ -17,15 +17,15 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 Analysis of the election showed that:
 - There were 369,711 total votes
 - The candidates were:
-      -Charles Casper Stockham
-      -Diana DeGette
-      -Raymon Anthony Doane
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-      -Charles Casper Stockham recieved 23.0% of the votes and 85,213 total votes
-      -Diana DeGette recieved 73.8% of the votes and 272,892 total votes
-      -Raymon Anthony Doane recived 3.1% of the votes and 11,606 total votes
+  - Charles Casper Stockham recieved 23.0% of the votes and 85,213 total votes
+  - Diana DeGette recieved 73.8% of the votes and 272,892 total votes
+  - Raymon Anthony Doane recived 3.1% of the votes and 11,606 total votes
 - The winner of the election was:
-      - Diana DeGette, who recieved 73.8% of the votes and 272,892 total votes
+  - Diana DeGette, who recieved 73.8% of the votes and 272,892 total votes
 
 ## Challenge Overview
 Using the data the Colorado Board of Elections gave you, add to the analysis with the following tasks:
@@ -37,12 +37,12 @@ Using the data the Colorado Board of Elections gave you, add to the analysis wit
 ## Challenge Summary
 Futher analysis of the data showed that:
 - The counties that participated were:
-      - Jefferson
-      - Denver
-      - Arapahoe
+  - Jefferson
+  - Denver
+  - Arapahoe
 - The county results were:
-      - Jefferson county had 10.5% voter participation and 38,855 voters showed up
-      - Denver county had 82.8% voter participation and 306,055 voters showed up
-      - Arapaahoe County had 6.7% voter participation and 24,801 voters showed up
+  - Jefferson county had 10.5% voter participation and 38,855 voters showed up
+  - Denver county had 82.8% voter participation and 306,055 voters showed up
+  - Arapaahoe County had 6.7% voter participation and 24,801 voters showed up
 - The county with the largest turnout was:
-      - Denver County with 82.8% and 306,055 voters
+  - Denver County with 82.8% and 306,055 voters
